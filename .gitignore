@@ -134,7 +134,6 @@ code_generator/EntityWidthProperty.kt
 jars/
 
 .gitub
-.vscode
 docker/surrealdb/database.db
 docker/nats
 .env
